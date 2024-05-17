@@ -1,0 +1,1 @@
+Commodities scraping is a webscraping project. So it relies on the  HTML structure of a webpage. Yahoo Finance changed it webpage structure, so the program does not work anymore. Currently working on something similar, more complex but tracking the Bucharest Stock Exchange.
